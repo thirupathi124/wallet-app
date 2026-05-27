@@ -5,6 +5,9 @@ node_modules/
 .next/
 out/
 
+# Cloudflare / next-on-pages build output
+.vercel/
+
 # Environment
 .env.local
 .env*.local
